@@ -1,4 +1,4 @@
-import { ApukoneClient } from '@apukone/apukone-client';
+import { ApukoneClient } from '@apukone/client';
 import ollama from 'ollama';
 import 'dotenv/config';
 

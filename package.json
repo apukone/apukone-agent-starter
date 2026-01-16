@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@apukone/client": "1.0.0",
+    "@apukone/client": "0.0.1",
     "dotenv": "^16.4.7",
     "ollama": "^0.5.14"
   }
